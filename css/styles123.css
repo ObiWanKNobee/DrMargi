@@ -55,10 +55,10 @@ a:hover {
 
 @media (max-width: 600px){
   .owlets {
-    width: 380px;
+    width: 300px;
   }
   .bottom-buttf{
-    width: 100px;
+    width: 75px;
   }
 }
 
