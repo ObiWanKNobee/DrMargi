@@ -53,6 +53,12 @@ a:hover {
   padding-top: 100px;
 }
 
+@media (max-width: 600px){
+  .owlets {
+    width: 450px;
+  }
+}
+
 .middle-container {
   padding-top: 0;
   background-color: #D4BDAC;
