@@ -60,6 +60,15 @@ a:hover {
   .bottom-buttf{
     width: 75px;
   }
+  .phyzio > p{
+    width: 70%;
+    word-wrap: break-word;
+  }
+  .butt-flies > p{
+    width: 70%;
+    word-wrap: break-word;
+  }
+  
 }
 
 .middle-container {
